@@ -60,3 +60,8 @@ struct ContentView_Previews: PreviewProvider {
 }
 
 ```
+
+## Step 5: Output
+
+![image text](http://arifhossen.net/github_images/test_image.png)
+
