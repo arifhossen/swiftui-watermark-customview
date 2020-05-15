@@ -63,5 +63,5 @@ struct ContentView_Previews: PreviewProvider {
 
 ## Step 5: Output
 
-![image text](http://arifhossen.net/github_images/test_image.png)
+![image text](http://arifhossen.net/github_images/watermark_image.png)
 
